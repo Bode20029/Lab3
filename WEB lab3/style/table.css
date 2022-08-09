@@ -1,0 +1,7 @@
+table tr td {
+    border: 1px solid black;
+}
+
+.color:hover {
+    background-color: cyan;
+}
